@@ -1,0 +1,16 @@
+.form{
+    text-align: center;
+    padding: 30px;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 59, 0, 0.597);
+
+}
+button{
+    padding: 10px;
+    background-color: #218f8f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

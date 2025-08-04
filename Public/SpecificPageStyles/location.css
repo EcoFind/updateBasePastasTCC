@@ -1,0 +1,18 @@
+h2{
+    text-align: center;
+    color: #000000;
+    margin-top: 20px;
+    
+}
+p{
+    text-align: center;
+    color: #000000;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.content{
+    border-radius: 15px;
+    padding: 3em;
+    background-color: #003a0d;
+    text-align: center;
+}
